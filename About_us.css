@@ -1,0 +1,75 @@
+{
+	font-family:arial;
+	font-size:12px;
+	color:white;
+}
+.para1
+{
+	width:50%;
+	margin:100px auto auto 100px;
+	color:black;
+	
+}
+.para2
+{
+	width:50%;
+	margin:100px auto auto 100px;
+	color:black;
+	
+}
+.para3
+{
+	width:50%;
+	margin:100px auto auto 100px;
+	color:black;
+	
+}
+h2
+{
+	color:white;
+	border:2px solid white;
+	background:#2B15CA;
+}
+.link
+{
+	color:#F9139B;
+}
+.logo
+{
+	background:url(Page_basic_from_img.jpg);
+	width:1320px;
+	height:2000px;
+	margin-left:10px;
+	border:5px solid #ffffff;
+	
+	
+	
+
+}
+.logo
+{
+	text-align:center;
+	color:#CA1536;
+}
+.TONMOY
+{
+    padding:-5px 0px 0px 5px;
+	margin-top:100px;  
+}
+.TARIF
+{
+    padding:-5px 0px 0px 5px;
+    margin-top:100px;  
+}
+.ANIK
+{
+    padding:-5 0px 0px 5px;
+	margin-top:10px;   
+
+}
+img
+{
+	height:150px;
+	width:150px;
+	margin-right:500px;
+}

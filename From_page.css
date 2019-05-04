@@ -1,0 +1,76 @@
+.x
+{
+	background:url(Page_basic_from_img.jpg);
+	width:1350px;
+	height:655px;
+}
+h1
+{
+	color:#F7110A;
+	font-family:chiller;
+	margin:0px 0px 0px 525px;
+}
+.name1
+{
+	padding:20px 0px 0px 400px;
+	color:#5A64F6;
+	
+}
+.name
+{
+	padding:10px 0px 0px 650px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}  
+.fname
+{
+    padding:20px 0px 0px 400px;
+	color:#5A64F6;
+	  
+}
+.fnumber
+{
+   	padding:10px 0px 0px 650px;
+	color:#5A64F6;
+	margin-top:-100px;   
+}
+.mname
+{
+  padding:20px 0px 0px 400px;
+  color:#5A64F6;   
+}
+.mnumber
+{
+  	padding:10px 0px 0px 650px;
+	color:#5A64F6;
+	margin-top:-100px;   
+}
+.addr
+{ 
+	padding:20px 0px 0px 400px;
+	color:#5A64F6;
+}
+.submit
+{ 
+    padding:10px 0px 0px 540px;
+	color:#5A64F6;
+	margin-top:-20px; 
+}
+#submit
+{
+
+	width:130px;
+	height:35px;
+	border:none;
+	background:#4CB261;
+	font-size:22px;
+	color:white;
+	margin-top:5px;
+	margin-left:10px;
+	cursor:pointer;
+
+}
+#submit:hover
+{
+	background:#0BDA35;
+}

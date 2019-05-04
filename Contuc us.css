@@ -1,0 +1,42 @@
+.page
+{
+	background:url(Page_basic_from_img.jpg);
+	width:1350px;
+	height:655px;
+}
+
+.logo
+{
+	
+	width:250px;
+	height:250px;
+	margin-left:10px;
+	text-decoration:none;	
+
+}
+
+img
+{
+	height:150px;
+	width:150px;
+}
+.page{
+	text-align:center;
+	text-decoration:none;
+}
+.TONMOY
+{
+    padding:10px 0px 0px 900px;
+	margin-top:-300px;  
+}
+.MITU
+{
+    padding:20px 0px 0px 200px;
+    margin-top:150px;  
+}
+.ANIK
+{
+    padding:10px 0px 0px 550px;
+	margin-top:-300px;   
+
+}

@@ -1,0 +1,65 @@
+.y
+{
+	background:url(Page_basic_2_img.jpg);
+	width:1350px;
+	height:900px;
+}
+.pic
+{
+	background:url(Page_basic_3_img.jpg);
+	width:1350px;
+	height:900px;
+}
+.x a, li
+{
+	display:inline;
+	text-transform:uppercase;
+	text-decoration:none;
+	padding-left:20px;
+	padding-right:15px;
+	color:#ffffff
+}
+.x
+{
+	padding-top:20px;
+}
+.x a:hover
+{
+	text-decoration:underline;
+	color:#FF0303;
+}
+h1
+{
+	color:white;
+	font-family:chiller;
+	margin:500px 0px 0px 80px;
+}
+.vol
+{
+	margin:-560px 0px 0px 1050px;
+	background:#CFA3A3;
+	width:240px;
+	height:45px;
+	padding:25px 0px 0px 10px;
+}
+#text
+{
+	width:200px;
+	height:20px;
+	color:#F62BEF;
+}
+#submit
+{
+	border:none;
+	width:30px;
+	height:20px;
+	
+	cursor:pointer;
+	
+}
+#submit:hover
+{
+	background:#0FF007;
+	color:white;
+	
+}

@@ -1,0 +1,110 @@
+h1
+{
+	color:yellow;
+	padding-top:30px;
+	padding-left:50px;
+}
+h2
+{
+	color:red;
+	padding-top:10px;
+	padding-left:950px;
+}
+
+
+.x
+{
+	margin-top:30px;
+	margin-left:20px;
+	width:1300px;
+	height:100px;
+	background:#8FDF96;
+
+    
+}
+
+.y
+{
+	margin-top:-40px;
+	margin-left:850px;
+}
+
+
+
+.name1
+{
+    padding:10px 0px 0px 900px;
+	color:#5A64F6;
+	
+	  
+}
+.name
+{
+    padding:80px 0px 0px 1100px;
+	color:#5A64F6;
+	margin-top:-170px; 
+	  
+}
+.email
+{
+    padding:10px 0px 0px 900px;
+	color:#5A64F6;
+	  
+}
+.re-email
+{
+   	padding:80px 0px 0px 1100px;
+	color:#5A64F6;
+	margin-top:-170px;    
+}
+.contuc
+{
+  padding:10px 0px 0px 900px;
+  color:#5A64F6;   
+}
+.pass1
+{
+    padding:10px 0px 0px 900px;
+	color:#5A64F6;
+	  
+}
+.pass2
+{
+   	padding:80px 0px 0px 1100px;
+	color:#5A64F6;
+	margin-top:-170px;    
+}
+
+
+
+
+.logo
+{
+	
+	width:250px;
+	height:250px;
+	margin-left:10px;
+	text-decoration:none;	
+
+}
+img
+{
+	height:250px;
+	width:350px;
+}
+.TARIF
+{
+    padding:100px 0px 0px 320px;
+    margin-top:-450px;  
+}
+
+
+
+
+
+
+
+
+
+
+
